@@ -29,11 +29,13 @@
     <groupId>org.testcontainers</groupId>
     <artifactId>mysql</artifactId>
     <version>1.18.3</version>
+<packaging>war</packaging>
 </dependency>
 <dependency>
     <groupId>org.webjars.npm</groupId>
     <artifactId>google__maps</artifactId>
     <version>0.3.1</version>
+<packaging>war</packaging>
 </dependency>
   </dependencies>
 
