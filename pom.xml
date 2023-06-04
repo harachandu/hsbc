@@ -7,6 +7,7 @@
   <groupId>com.hsbctech</groupId>
   <artifactId>hsbc</artifactId>
   <version>1.0-SNAPSHOT</version>
+<packaging>war</packaging>
 
   <name>hsbc</name>
   <!-- FIXME change it to the project's website -->
@@ -29,13 +30,11 @@
     <groupId>org.testcontainers</groupId>
     <artifactId>mysql</artifactId>
     <version>1.18.3</version>
-<packaging>war</packaging>
 </dependency>
 <dependency>
     <groupId>org.webjars.npm</groupId>
     <artifactId>google__maps</artifactId>
     <version>0.3.1</version>
-<packaging>war</packaging>
 </dependency>
   </dependencies>
 
